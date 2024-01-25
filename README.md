@@ -17,3 +17,4 @@ To mitigate the lack of support for file uploads, the csv data is pasted into a 
 * Data is loaded into your target schema under the table name "uploaded_data". 
 
 
+![image](https://github.com/joldenburgSOLITA/snowshovel/assets/119294091/57455a4d-c5c9-4f58-b7b2-02c4e17ff281)
