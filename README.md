@@ -3,7 +3,7 @@ A Streamlit app for loading data into Snowflake ❄️
 
 all credits goes to @ sashamitrovich
 
-This a fork of the locally run Stramlit to be run and hosted directly on your Snowflake instance.
+This a fork of the locally run Streamlit App "Snowshovel", to be hosted and run directly from your Snowflake instance.
 To mitigate the lack of support for file uploads, the csv data is pasted into a text box instead. 
 
 * Accepts a CSV file via the File Uploader component
