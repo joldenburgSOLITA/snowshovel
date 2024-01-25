@@ -1,6 +1,6 @@
-# Snowshovel
-A Streamlit app for loading data into Snowflake ❄️  
-
+A Streamlit app for loading data into Snowflake ❄️ 
+# Snowshovel - all credits to @ sashamitrovich
+ 
 This a fork of the locally run Stramlit to be run and hosted directly on your Snowflake instance.
 To mitigate the lack of support for file uploads, the csv data is pasted into a text box instead. 
 
